@@ -25,6 +25,10 @@ A lookup table of all known NPCs in the Shattered Isles campaign. Individual fil
 
 ## Independents & Wanderers
 - [[NPCs/Jaquess-Le-Baron-Samedi|Jaquess "Le Baron" Samedi]]: Masked, immaculately dressed wandering alchemist and occult banker who lends gold on unsettling terms.
+- [[NPCs/Woody-Haygrin|Woody Haygrin]]: Halfling forager who keeps a blind at the edge of Drownroot Hollow (Hex 0202) and warns travelers off its dangerous waters.
+
+## Missing & Unaccounted For
+- [[NPCs/Edbert-Thurlow|Edbert Thurlow]]: Havenport fisherman missing nine days; his wrecked dory lies buried on Gullcry Strand with stamped Dominion nails inside the hull.
 
 ## Mythic / Unseen
 - [[NPCs/Oakharrow|Oakharrow]]: Primordial guardian said to slumber deep within the earth, known only through Faelynn Wildheart's stories.

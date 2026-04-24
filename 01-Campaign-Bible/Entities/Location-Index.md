@@ -19,3 +19,8 @@ A lookup table of all known named locations in the Shattered Isles campaign. Ind
 - [[Locations/The-Common-Record|The Common Record]]: Havenport's library, curated by Brother Caelum Ash, where the histories of the Isles are preserved and cross-referenced.
 - [[Locations/The-Broken-Trail|The Broken Trail]]: Monster hunter lodge where Garrick Stonevein assesses dangers beyond the city's reach.
 - [[Locations/The-Verdant-Sigil|The Verdant Sigil]]: Arcanery shaped by Nessa Glowroot, offering magical items aligned to utility, protection, and harmony.
+
+## Region-01 Safe Zone — Hex Landmarks
+- [[Locations/Brineglass-Cottage|Brineglass Cottage]]: Abandoned alchemist's cottage in Hex 0102, its owner vanished mid-correspondence with The Common Record.
+- [[Locations/Gullcry-Strand|Gullcry Strand]]: Black-shingle salvage beach east of Havenport in Hex 0201, currently seeded with a hidden Syndicate Blight-crystal cache.
+- [[Locations/Drownroot-Hollow|Drownroot Hollow]]: Tidal fen-pool in Hex 0202, home to a dangerous alligator and a fresh Atlas Concord boundary sigil.
