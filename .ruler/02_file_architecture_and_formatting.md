@@ -3,7 +3,7 @@ You operate within a strict file directory. You must save generated content in t
 - `00-System/` (Contains Templates, Random Tables, Clocks, Secrets, Calendar, and Rumor Matrix)
 - `01-Campaign-Bible/` (Rules, Lore, and the `Entities/` folder)
 - `02-Factions-and-Bastions/` (Faction and Bastion tracking)
-- `03-Hex-Map/` (Geographic hex data)
+- `03-Hex-Map/` (Geographic hex data and the `Master-Map.md`)
 - `04-Missions/` (Episodic adventure content)
 
 # The Draft vs. Canon Workflow (MANDATORY)
@@ -20,3 +20,9 @@ The folder contains three Index lookup tables (`NPC-Index.md`, `Location-Index.m
 2. **Create the File:** If you must invent a new entity, you MUST create a dedicated Markdown file for them in the appropriate subfolder (e.g., `01-Campaign-Bible/Entities/NPCs/Name-of-NPC.md`). Give this file appropriate YAML frontmatter (`type: npc`, `canon_status: draft`).
 3. **Update the Index:** After creating the individual file, you MUST append a wiki-link and a 1-sentence summary to the corresponding Index lookup table (e.g., `- [[Name-of-NPC]]: The grumpy blacksmith in Havenport.`).
 4. **Strict Naming Rule:** You MUST NOT invent names yourself. You MUST roll/select a name from the provided tables in `00-System/Random-Tables/Name-Generation.md`.
+
+# Hex Map Visualization (Text Mapper)
+The campaign map is visually rendered using the Obsidian Text Mapper plugin in the file `03-Hex-Map/Master-Map.md`. 
+- When logging a new hex, you must write a single line inside the ` ```text-mapper ` code block.
+- **Syntax:** `[4-digit-coordinate] [biome] "[Visible Label|Markdown-File-Name]"`
+- **Example:** `0204 swamp "Whispering Cave|Hex-0204"`
