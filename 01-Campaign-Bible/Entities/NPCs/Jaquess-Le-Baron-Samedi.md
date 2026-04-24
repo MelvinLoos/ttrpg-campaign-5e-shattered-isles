@@ -3,7 +3,7 @@ type: npc
 canon_status: draft
 name: Jaquess "Le Baron" Samedi
 occupation: Illicit Alchemist & Occult Banker
-location: 
+location: Wandering
 faction: Independent
 appearance: Pristine Suit, Top Hat, Skull Mask
 personality: Theatrically Charming, Polite, Sinister
@@ -34,3 +34,6 @@ Le Baron is best known for two primary services. First, he is a master alchemist
 Secondly, he acts as a lender to the desperate. For adventurers short on coin but rich in ambition, Jaquess offers significant loans of gold or equipment. He is known to be generous with his purse, though his methods of debt collection are rumored to be supernatural in nature.
 
 ***
+
+## GM Notes
+> Le Baron is a wandering salesman with no fixed location. He should be utilized heavily in random encounter generation across all biomes.

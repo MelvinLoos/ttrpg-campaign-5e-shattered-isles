@@ -3,7 +3,7 @@ type: location
 canon_status: draft
 name: The Shattered Isle
 location_type: World
-region: 
+region: Campaign World
 ---
 # The Shattered Isle
 

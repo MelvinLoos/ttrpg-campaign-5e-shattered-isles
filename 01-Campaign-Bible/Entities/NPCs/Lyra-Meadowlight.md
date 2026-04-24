@@ -3,7 +3,7 @@ type: npc
 canon_status: draft
 name: Lyra Meadowlight
 occupation: Researcher
-location: 
+location: Havenport
 faction: Atlas Concord
 ---
 # Lyra Meadowlight

@@ -35,6 +35,3 @@ As a quest giver, Faelynn focuses on **Exploration**. She tasks adventurers with
 
 ## Council Role
 Holds the **Verdant Seat (Sustenance)** on the [[Havenport-Concordat|Havenport Concordat]].
-
-## Notes on Spelling
-The canon export also references the Atlas Concord leader as "Faelen Wildheart" (see the [[Atlas-Concord|Atlas Concord]] faction entry and [[Oakharrow]] lore). Both spellings appear in source material and are preserved verbatim pending editorial review.

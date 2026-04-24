@@ -1,7 +1,6 @@
 ---
 type: index
 index_of: npc
-canon_status: draft
 ---
 # NPC Index
 
@@ -28,4 +27,4 @@ A lookup table of all known NPCs in the Shattered Isles campaign. Individual fil
 - [[NPCs/Jaquess-Le-Baron-Samedi|Jaquess "Le Baron" Samedi]]: Masked, immaculately dressed wandering alchemist and occult banker who lends gold on unsettling terms.
 
 ## Mythic / Unseen
-- [[NPCs/Oakharrow|Oakharrow]]: Primordial guardian said to slumber deep within the earth, known only through Faelen Wildheart's stories.
+- [[NPCs/Oakharrow|Oakharrow]]: Primordial guardian said to slumber deep within the earth, known only through Faelynn Wildheart's stories.

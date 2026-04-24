@@ -1,7 +1,6 @@
 ---
 type: index
 index_of: location
-canon_status: draft
 ---
 # Location Index
 
@@ -9,6 +8,9 @@ A lookup table of all known named locations in the Shattered Isles campaign. Ind
 
 ## World
 - [[Locations/The-Shattered-Isle|The Shattered Isle]]: The campaign world — a spiraling archipelago of raw magic formed by the Sundering, where true death is forbidden by Divine Covenant.
+
+## Bastions
+- [[../../02-Factions-and-Bastions/Havenport|Havenport]]: The central Bastion and starting safe zone of the campaign; fortified sanctuary governed by the Havenport Concordat.
 
 ## Havenport — Establishments
 - [[Locations/The-Last-Lantern|The Last Lantern]]: Havenport's primary tavern; a warm, steady place of rest and orientation kept by Marla Swiftpour.
