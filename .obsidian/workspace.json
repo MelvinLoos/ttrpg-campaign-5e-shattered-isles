@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "a283425b68ea714d",
+    "type": "split",
+    "children": [
+      {
+        "id": "095de6a854aea7bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "771ff2fb0dcf4245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Hex-Map/Master-Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Master-Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "936355bd059090a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2162fcb471213a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e935bb56f2d9aaeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d19a9cd0596d8856",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bf9e01b01fcdbd46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fccaea6e77bf6dd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ec37bc180c9a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22276bdb63d7a79b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03-Hex-Map/Master-Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Master-Map"
+            }
+          },
+          {
+            "id": "189c9f3929025c02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03-Hex-Map/Master-Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Master-Map"
+            }
+          },
+          {
+            "id": "6609aeb18e7e12d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07e43864a320d02e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f1d48669ebb0f02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03-Hex-Map/Master-Map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Master-Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "771ff2fb0dcf4245",
+  "lastOpenFiles": [
+    "03-Hex-Map/Region-01-Safe-Zone/Hex-0202.md",
+    "03-Hex-Map/Region-01-Safe-Zone/Hex-0201.md",
+    "03-Hex-Map/Region-01-Safe-Zone/Hex-0102.md",
+    "03-Hex-Map/Master-Map.md",
+    "WARP.md",
+    "CRUSH.md",
+    "CLAUDE.md",
+    "AGENTS.md"
+  ]
+}

@@ -1,0 +1,6 @@
+0101 soil town "Havenport"
+0102 water "Whispering Cove"
+0201 green forest "Verdant Woods"
+0202 dark-grey swamp "The Blighted Fens"
+
+include gnomeyland.txt

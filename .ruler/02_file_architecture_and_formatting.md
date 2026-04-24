@@ -22,7 +22,13 @@ The folder contains three Index lookup tables (`NPC-Index.md`, `Location-Index.m
 4. **Strict Naming Rule:** You MUST NOT invent names yourself. You MUST roll/select a name from the provided tables in `00-System/Random-Tables/Name-Generation.md`.
 
 # Hex Map Visualization (Text Mapper)
-The campaign map is visually rendered using the Obsidian Text Mapper plugin in the file `03-Hex-Map/Master-Map.md`. 
-- When logging a new hex, you must write a single line inside the ` ```text-mapper ` code block.
-- **Syntax:** `[4-digit-coordinate] [biome] "[Visible Label|Markdown-File-Name]"`
-- **Example:** `0204 swamp "Whispering Cave|Hex-0204"`
+The campaign map is visually rendered using the Alpine Text Mapper syntax in `03-Hex-Map/Master-Map.txt`. 
+- **The Header:** The file MUST always end with `include gnomeyland.txt`.
+- **Syntax:** `[4-digit-coordinate] [color] [terrain/icon] "[Visible Label]"`
+- **Strict Biome Vocabulary:** You MUST ONLY use the following exact combinations for your hexes to ensure they render properly on the web viewer:
+  - **Coast / Ocean:** `water` (e.g., `0102 water "Whispering Cove"`)
+  - **Forest:** `green forest` or `light-green fir-forest`
+  - **Swamp:** `dark-grey swamp` or `grey swamp`
+  - **Mountains:** `white mountain` or `light-grey mountain`
+  - **Hills:** `light-grey forest-hill`
+  - **Bastion / Settlement:** `soil town` or `green trees thorp`
