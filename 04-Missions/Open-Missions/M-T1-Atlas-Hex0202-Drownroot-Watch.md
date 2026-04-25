@@ -11,6 +11,9 @@ fp_multiplier: 1
 bp_reward: 2
 gold_reward: 50
 ---
+> [!editor] Editor pass — upstream blocker
+> `00-System/Templates/Template-Mission.md` is currently **empty (0 bytes)**, so YAML/section conformance was reviewed against the brief's checklist and the Showrunner's evident schema only, not against a canonical template. **Proposed fix (for the Showrunner / template owner):** populate `Template-Mission.md` with the canonical mission structure, then re-tag this file with `canon_status: canon` once it conforms. No content change to this mission is required.
+
 # Mission: A Quiet Watch on the Drownroot
 
 ## The Call to Action

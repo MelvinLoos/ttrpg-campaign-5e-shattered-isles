@@ -11,6 +11,9 @@ fp_multiplier: 1
 bp_reward: 2
 gold_reward: 50
 ---
+> [!editor] Editor pass — upstream blocker
+> `00-System/Templates/Template-Mission.md` is currently **empty (0 bytes)**, so YAML/section conformance was reviewed against the brief's checklist and the Showrunner's evident schema only, not against a canonical template. **Proposed fix (for the Showrunner / template owner):** populate `Template-Mission.md` with the canonical mission structure, then re-tag this file with `canon_status: canon` once it conforms. No content change to this mission is required.
+
 # Mission: The Cairn Above the Tide
 
 ## The Call to Action
@@ -32,7 +35,7 @@ The clerk will further confirm, only if asked: the strand can be reached on the 
 - **Faction Points (FP):** **1 FP × 1** to Hyperion Syndicate for Primary completion. **+1 FP** if Denial is also achieved (max **2 FP**). *(Awarded to participating characters' aligned factions; full FP paid only on intact delivery to the Gilded Seat.)*
 - **Bastion Points (BP):** **2 BP** to **Havenport (Gilded Seat / Hyperion Syndicate)** on Primary. **+1 BP** if Denial is also achieved (max **3 BP**). *(BP source: a successful, untraced first cache-run is the foundation of Vexis's Tier 1 supply infrastructure.)*
 - **Individual Rewards:** **50 gp** per character on Primary completion (Vexis pays in clipped Havenport silver and Syndicate scrip). **+25 gp per character** if Denial is achieved (max **75 gp**). *Bonus loot:* the smugglers carry **8 gp in mixed coin** between them, free for the taking, and Lady Vexis will turn a blind eye.
-- **Penalty Clause:** If a crate is **broken in transit**, base gold is reduced to **25 gp per character** and BP is reduced to **1**. Vexis will pay for results, not theatrics.
+- **Penalty Clause:** If a crate is **broken in transit**, **FP is forfeit (0)**, BP is reduced to **1**, and base gold is reduced to **25 gp per character**. Vexis will pay for results, not theatrics.
 - **Loot In-Hex (kept by party):** Anything from the **Keeled Dory** wreck — including the **four stamped iron nails** with the rayed-sun maker's mark, the **copper ring with the dockmaster's stamp** (Edbert Thurlow's), and any salvageable flotsam from the tide pools (1d4 pieces) — Vexis has no claim on. She does not even know it is there.
 
 ### Math / Parity Breakdown
