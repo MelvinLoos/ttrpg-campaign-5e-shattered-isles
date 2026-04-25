@@ -5,26 +5,41 @@
 ## Faction: The Atlas Concord
 **Leader:** Faelynn Wildheart
 **Primary Resource:** Primal Leylines & Awakened Flora
-- [x] [ ] [ ] [ ] [ ] [ ] **Clock (6-Step): Awaken the Primordial Guardian (Oakharrow)**
-  - *The Goal:* Faelynn believes waking the slumbering primordial, Oakharrow, is the only way to permanently halt the spread of the Blight and push back the industrialization of the Isles.
-  - *Current Status:* Concord druids have located a massive, dormant root system deep in the wilds and are attempting to map its extent.
-  - *Next Step:* They need to secure a massive source of uncorrupted magical energy to begin the awakening ritual.
-  - *Collision:* Waking Oakharrow will likely cause massive geological upheaval, threatening Dominion forts and destroying Syndicate mining operations.
+
+### 🌿 Clock (6-Step): Awaken the Primordial Guardian (Oakharrow)
+*Goal: Wake the slumbering primordial, Oakharrow, to permanently halt the spread of the Blight and push back the industrialization of the Isles.*
+*Collision: Waking Oakharrow will cause massive geological upheaval, threatening Dominion forts and destroying Syndicate mining operations.*
+- [x] 1. Locate the massive, dormant root system deep in the wilds.
+- [ ] 2. Map the extent of the root system.
+- [ ] 3. Secure a massive source of uncorrupted magical energy.
+- [ ] 4. Funnel the energy into the primary root nodes.
+- [ ] 5. Begin the awakening ritual.
+- [ ] 6. Oakharrow Awakens (Massive geological upheaval begins).
 
 ## Faction: The Cronus Dominion
 **Leader:** Commander Valerius
 **Primary Resource:** Strategic Choke-points & Ironwood Timber
-- [x] [x] [ ] [ ] [ ] [ ] **Clock (6-Step): Construct the "Iron Line" Outpost Chain**
-  - *The Goal:* Commander Valerius is pushing a heavily fortified, paved supply route straight through the untamed wilds to assert absolute military dominance over the region.
-  - *Current Status:* The first outpost has been built, and Dominion engineers are actively clear-cutting the forest to pave the next segment. 
-  - *Next Step:* They need to clear out a major monster nest blocking the valley pass to build the second outpost.
-  - *Collision:* The clear-cutting infuriates the Atlas Concord, and the heavy military tolls planned for the road threaten the Hyperion Syndicate's profit margins.
+
+### ⚙️ Clock (6-Step): Construct the "Iron Line" Outpost Chain
+*Goal: Push a heavily fortified, paved supply route straight through the untamed wilds to assert absolute military dominance over the region.*
+*Collision: Clear-cutting infuriates the Atlas Concord; heavy military tolls threaten the Hyperion Syndicate's profit margins.*
+- [x] 1. First outpost built at the edge of the wilds.
+- [x] 2. Engineers clear-cut the forest and pave the first segment.
+- [ ] 3. Clear out the major monster nest blocking the valley pass.
+- [ ] 4. Construct the second forward operating base.
+- [ ] 5. Establish and enforce heavy military tolls on the road.
+- [ ] 6. The "Iron Line" is fully operational (Region falls under Dominion martial law).
 
 ## Faction: The Hyperion Syndicate
 **Leader:** Lady Vexis
 **Primary Resource:** Blight-Crystals & Arcane Artifacts
-- [x] [ ] [ ] [ ] [ ] [ ] **Clock (6-Step): Monopolize the "Blight-Crystal" Trade**
-  - *The Goal:* Lady Vexis has discovered that the Blight isn't just a hazard—under immense pressure, it crystallizes into a highly volatile, incredibly potent arcane fuel. She wants to corner the market before the Magistrate bans it.
-  - *Current Status:* Syndicate mercenaries have secretly established a hazardous extraction camp in a Blight-heavy ruin.
-  - *Next Step:* They need to bribe or silence local prospectors and hire alchemists (perhaps Le Baron) to refine the raw crystals without them exploding.
-  - *Collision:* The extraction process worsens the Blight (directly opposing the Atlas Concord) and operates entirely outside the taxation and laws of the Cronus Dominion.
+
+### 💎 Clock (6-Step): Monopolize the "Blight-Crystal" Trade
+*Goal: Corner the market on volatile Blight-Crystal arcane fuel before the Magistrate bans it.*
+*Collision: Extraction worsens the Blight (opposing the Concord) and operates outside the taxation and laws of the Dominion.*
+- [x] 1. Secretly establish a hazardous extraction camp in a Blight-heavy ruin.
+- [ ] 2. Bribe or silence local prospectors who get too close.
+- [ ] 3. Hire alchemists (e.g., Le Baron) to refine the raw crystals safely.
+- [ ] 4. Establish secure smuggling routes past Dominion checkpoints.
+- [ ] 5. Flood the Havenport black market with refined fuel.
+- [ ] 6. Total monopoly achieved (Syndicate controls the region's underground economy).
