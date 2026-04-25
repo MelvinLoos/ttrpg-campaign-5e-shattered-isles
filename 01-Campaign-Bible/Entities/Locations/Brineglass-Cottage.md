@@ -3,7 +3,7 @@ type: location
 canon_status: draft
 name: Brineglass Cottage
 location_type: Abandoned Alchemist's Cottage
-region: Hex 0102 — Brineglass Wood
+region: Hex 1011 — Brineglass Wood
 ---
 # Brineglass Cottage
 

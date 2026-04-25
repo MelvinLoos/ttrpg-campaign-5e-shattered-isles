@@ -3,7 +3,7 @@ type: location
 canon_status: draft
 name: Gullcry Strand
 location_type: Coastal Beach & Salvage Ground
-region: Hex 0201
+region: Hex 1110
 ---
 # Gullcry Strand
 

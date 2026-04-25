@@ -26,7 +26,7 @@ The campaign map is visually rendered using the Alpine Text Mapper syntax in `03
 - **The Header:** The file MUST always end with `include gnomeyland.txt`.
 - **Syntax:** `[4-digit-coordinate] [color] [terrain/icon] "[Visible Label]"`
 - **Strict Biome Vocabulary:** You MUST ONLY use the following exact combinations for your hexes to ensure they render properly on the web viewer:
-  - **Coast / Ocean:** `water` (e.g., `0102 water "Whispering Cove"`)
+  - **Coast / Ocean:** `water` (e.g., `1011 water "Whispering Cove"`)
   - **Forest:** `green forest` or `light-green fir-forest`
   - **Swamp:** `dark-grey swamp` or `grey swamp`
   - **Mountains:** `white mountain` or `light-grey mountain`

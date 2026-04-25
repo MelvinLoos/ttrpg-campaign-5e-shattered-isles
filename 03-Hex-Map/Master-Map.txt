@@ -1,6 +1,15 @@
-0101 soil town "Havenport"
-0102 water "Whispering Cove"
-0201 green forest "Verdant Woods"
-0202 dark-grey swamp "The Blighted Fens"
+0909 water
+0910 water
+0911 water
+1009 water
+1010 soil town "Havenport"
+1011 green forest "Verdant Woods"
+1109 water
+1110 water
+1111 water
+1209 water
+1210 water
+1309 water
+1310 water
 
 include gnomeyland.txt

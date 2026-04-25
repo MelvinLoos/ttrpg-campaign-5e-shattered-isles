@@ -3,7 +3,7 @@ type: npc
 canon_status: draft
 name: Woody Haygrin
 occupation: Forager & Fen-trapper
-location: Drownroot Hollow (Hex 0202)
+location: Drownroot Hollow (Hex 1111)
 faction: 
 ---
 # Woody Haygrin

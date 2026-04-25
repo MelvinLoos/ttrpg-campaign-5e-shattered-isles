@@ -3,7 +3,7 @@ type: location
 canon_status: draft
 name: Drownroot Hollow
 location_type: Tidal Fen Pool
-region: Hex 0202
+region: Hex 1111
 ---
 # Drownroot Hollow
 
