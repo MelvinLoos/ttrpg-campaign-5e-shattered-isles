@@ -1,15 +1,19 @@
-0909 water
-0910 water
-0911 water
-1009 water
+0909 water "The Deep"
+0910 water "Whispering Cove"
+0911 water "Smuggler's Reach"
+
+1009 water "The Shallows"
 1010 soil town "Havenport"
-1011 green forest "Verdant Woods"
-1109 water
-1110 water
-1111 water
-1209 water
-1210 water
-1309 water
-1310 water
+1011 green forest "Brineglass Wood"
+
+1109 green forest "The Old Timber"
+1110 water "Gullcry Strand"
+1111 dark-grey swamp "Drownroot Hollow"
+
+1209 light-grey forest-hill "The Lower Crags"
+1210 light-grey forest-hill "Broken Stone"
+
+1309 white mountain "The Iron Anvil"
+1310 white mountain "Frost Peak"
 
 include gnomeyland.txt
