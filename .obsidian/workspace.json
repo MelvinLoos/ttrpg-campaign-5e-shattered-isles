@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Hex-Map/Master-Map.md",
+                "file": "Campaign-Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master-Map"
+              "title": "Campaign-Dashboard"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "771ff2fb0dcf4245",
   "lastOpenFiles": [
+    "00-System/Active-Clocks.md",
+    "Untitled.md",
+    "Campaign-Dashboard.md",
     "03-Hex-Map/Region-01-Safe-Zone/Hex-1111.md",
     "03-Hex-Map/Region-01-Safe-Zone/Hex-1110.md",
     "03-Hex-Map/Region-01-Safe-Zone/Hex-1011.md",
