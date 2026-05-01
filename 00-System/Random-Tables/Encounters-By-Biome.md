@@ -57,31 +57,31 @@
 | **24** | A cage hanging from a dead tree over a gorge, filled with ravens. |
 
 ## 3. Swamps & Wetlands (The Blighted Fens)
-| 2d12 | Encounter / Situation |
-| :--- | :--- |
-| **2** | (Telegraphed) A massive troll lurking under a rickety wooden bridge. |
-| **3** | A giant snake (Constrictor) hanging from a weeping willow. |
-| **4** | A giant alligator death-rolling a deer in the shallows. |
-| **5** | Goblins (1D10) walking on stilts, hunting for frogs. |
-| **6** | Skeletons (1D12) rising slowly from the shallow, bubbling muck. |
-| **7** | Bandits (1D8) hiding from faction patrols in the reeds. |
-| **8** | A swamp witch gathering highly toxic roots. |
-| **9** | Swamp gas ignites nearby, creating a sudden, frightening hazard. |
-| **10** | A patch of deep, sucking quicksand hidden under duckweed. |
-| **11** | An overgrown, stranded pirate ship miles from the ocean. |
-| **12** | A place where the swamp water is inexplicably on fire. |
-| **13** | A half-sunken stone statue of a forgotten, pre-Sundering deity. |
-| **14** | A submerged chest completely covered in large leeches. |
-| **15** | A wooden coffin (50% chance empty) floating slowly by. |
-| **16** | Strange, glowing stepping stones forming a path into the mist. |
-| **17** | An alchemist's cottage on stilts (50% chance abandoned). |
-| **18** | Normal alligators (1D6) sunning themselves on the mudbanks. |
-| **19** | A giant centipede erupting from a rotten, hollow log. |
-| **20** | A deafening horde of toads that makes resting impossible. |
-| **21** | Giant rats (1D6) swimming aggressively through the reeds. |
-| **22** | A massive stone slab covered in glowing Draconic runes. |
+| 2d12   | Encounter / Situation                                                 |
+| :----- | :-------------------------------------------------------------------- |
+| **2**  | (Telegraphed) A massive troll lurking under a rickety wooden bridge.  |
+| **3**  | A giant snake (Constrictor) hanging from a weeping willow.            |
+| **4**  | A giant alligator death-rolling a deer in the shallows.               |
+| **5**  | Goblins (1D10) walking on stilts, hunting for frogs.                  |
+| **6**  | Skeletons (1D12) rising slowly from the shallow, bubbling muck.       |
+| **7**  | Bandits (1D8) hiding from faction patrols in the reeds.               |
+| **8**  | A swamp witch gathering highly toxic roots.                           |
+| **9**  | Swamp gas ignites nearby, creating a sudden, frightening hazard.      |
+| **10** | A patch of deep, sucking quicksand hidden under duckweed.             |
+| **11** | An overgrown, stranded pirate ship miles from the ocean.              |
+| **12** | A place where the swamp water is inexplicably on fire.                |
+| **13** | A half-sunken stone statue of a forgotten, pre-Sundering deity.       |
+| **14** | A submerged chest completely covered in large leeches.                |
+| **15** | A wooden coffin (50% chance empty) floating slowly by.                |
+| **16** | Strange, glowing stepping stones forming a path into the mist.        |
+| **17** | An alchemist's cottage on stilts (50% chance abandoned).              |
+| **18** | Normal alligators (1D6) sunning themselves on the mudbanks.           |
+| **19** | A giant centipede erupting from a rotten, hollow log.                 |
+| **20** | A deafening horde of toads that makes resting impossible.             |
+| **21** | Giant rats (1D6) swimming aggressively through the reeds.             |
+| **22** | A massive stone slab covered in glowing Draconic runes.               |
 | **23** | Strange lights (Will-o'-wisps) trying to lure the party off the path. |
-| **24** | A weeping mermaid trapped in a shallow, muddy pool. |
+| **24** | A weeping mermaid trapped in a shallow, muddy pool.                   |
 
 ## 4. Coastlines & Seas (The Shattered Shores)
 | 2d12 | Encounter / Situation |

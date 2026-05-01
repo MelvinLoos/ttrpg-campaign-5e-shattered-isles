@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17ca4aa39a71ca41",
+        "id": "eb1af732a2ee9010",
         "type": "tabs",
         "children": [
           {
-            "id": "5e089f1c241770bb",
+            "id": "72c4458df81eb0b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,14 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e089f1c241770bb",
+  "active": "72c4458df81eb0b9",
   "lastOpenFiles": [
+    "04-Missions/Open-Missions/M-T1-Atlas-Hex1111-Drownroot-Watch.md",
     "04-Missions/Open-Missions/M-T1-Concord-HotStart.md",
+    "00-System/Random-Tables/Encounters-By-Biome.md",
+    "00-System/Random-Tables/Wilderness-Dressing.md",
+    "00-System/Random-Tables/Name-Generation.md",
+    "00-System/Random-Tables/Dungeon-Dressing.md",
+    "Campaign-Dashboard.md",
+    "CLAUDE.md",
     "AGENTS.md",
     "04-Missions/Open-Missions/M-T1-Hyperion-Hex1110-Cairn-Run.md",
     "04-Missions/Open-Missions/M-T1-Cronus-Hex1011-Blaze-Line.md",
-    "04-Missions/Open-Missions/M-T1-Atlas-Hex1111-Drownroot-Watch.md",
-    "Campaign-Dashboard.md",
     "00-System/Active-Clocks.md",
     "Untitled.md",
     "03-Hex-Map/Region-01-Safe-Zone/Hex-1111.md",
@@ -198,7 +203,6 @@
     "03-Hex-Map/Region-01-Safe-Zone/Hex-1011.md",
     "03-Hex-Map/Master-Map.md",
     "WARP.md",
-    "CRUSH.md",
-    "CLAUDE.md"
+    "CRUSH.md"
   ]
 }
