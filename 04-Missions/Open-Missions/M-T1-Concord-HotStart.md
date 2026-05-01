@@ -50,41 +50,46 @@ target_hex: Hex-1010
 * **Survival (Wisdom) / Strength:** Dragging the half-sunken coracle out of the muck and using it as a makeshift sled to slide across the surface of the mud. (Doing this grants Advantage on the check).
 * **Consequence of Failure:** Any player who fails their check sinks waist-deep into the toxic muck. They take **1d4 acid damage** and gain **1 level of Exhaustion** from the freezing, toxic water before dragging themselves out.
 
----
-
-## 🪤 Room 3: The False Sanctuary
-
-> *"After pulling yourselves through the treacherous mud, you see that the rotting remains of a rudimentary wooden bridge stretch across a deep water channel. Across the channel is a dry, elevated mound of thick green moss sitting under the canopy of a weeping willow tree. It looks solid, safe, and untouched by the surrounding yellow fog—a perfect place to catch your breath. A rusted corner of a metal wagon peeks out from beneath the moss."*
-
-**The Encounter:** The moss is actually a camouflage layer over a rotting, half-sunken Dominion supply cart. When a player steps on the mound or investigates the cart, they disturb the nest inside.
-* **Wilderness Dressing (Interactable/Distraction):** A tangled mass of roots and reeds hides a rotting, empty backpack near the base of the mound. If a player investigates the backpack first, the grubs get a surprise round to erupt from the nearby cart.
-* **2x Swarms of Rot Grubs** (See Statblocks below) erupt from the rotting wood and attack the nearest characters.
-* **The B-Plot Clue:** Inside the ruined cart is a rusted lockbox stamped with the cog-and-hammer seal of the Cronus Dominion. It contains 2 *Potions of Healing* and a bundle of heavy iron surveyor nails. This hints to the players that the Dominion is secretly pushing into these woods.
+**The Obstacle:** The players must cross a 40-foot expanse of deep, sucking toxic mud. 
+**Wilderness Dressing (Interactable):** A half-sunken coracle (small boat) lies in the water near the trail.
+**The Mechanics (Group or Individual Creative Problem Solving):** Do not just ask for an Athletics check. Ask: *"How are you crossing?"*
+* If they drag the coracle out and use it as a sled: Advantage on all checks.
+* If they cast a spell like *Create Water* to wash the mud away, or *Mage Hand* to pull ropes across: Automatic Success.
+* **Consequence of Failure:** Anyone who fails a DC 12 check of their choice sinks waist-deep, gaining **1 level of Exhaustion** from the freezing muck.
 
 ---
 
-## ⚔️ Room 4: The Spore Climax
+## 🗣️ Room 3: The False Sanctuary (Social Interaction)
 
-> *"The yellow fog thickens, burning the back of your throat. A faint, luminescent fog rises from a nearby pool, mingling with the toxic yellow haze. You step into a dead clearing. At the center, clinging to a massive, petrified tree trunk, is a pulsating cluster of fleshy, yellow Blight-Pods. They heave as if breathing. A jumbled mass of bones and rotting equipment mark the site of an ancient battle around the tree's base. Guarding the pods is a nightmare—an Owlbear, its feathers molting, its beak cracked, and its muscles bulging with glowing green tumors. It spots you and lets out a deafening, wet screech."*
+> *"Across a deep water channel is a dry, elevated mound of thick green moss under a weeping willow. As you approach, you realize the moss is growing over a collapsed metal wagon. From underneath the heavy iron axle, you hear a wet, ragged cough. A human voice croaks out, 'Stay back... if you're with the Concord, just kill me quickly.'"*
 
-**The Encounter:** * **1x Blight-Maddened Owlbear** (See Statblocks below) defending the tree.
-* **Wilderness Dressing (Interactable):** The jumbled mass of bones and rotting equipment  provides Half-Cover (+2 AC) to anyone who ducks behind it, and contains several rusted, jagged spears that can be thrown.
-* **The Objective:** The pods share an AC of 10 and have 30 HP. They are vulnerable to Fire damage. The party must destroy the pods *and* survive the Owlbear.
-* **Lair Action:** On Initiative Count 20 (losing initiative ties), the Blight-Pods spray a 15-foot cone of toxic gas aimed at the largest cluster of players. Targets must make a **DC 12 Constitution saving throw** or be *Poisoned* until the end of their next turn.
+**The Encounter:** * There are no monsters here. Pinned beneath the heavy cart is **Silas**, a young, terrified Dominion Surveyor. His leg is crushed. 
+* **The Dilemma:** Silas admits his unit was illegally clear-cutting the swamp when the Blight-beasts ambushed them. He begs for a healing potion or help lifting the cart (Combined DC 18 Athletics). 
+* **The Faction Choice:** * If they save him, he gives them a heavy iron lockbox (containing 2 Potions of Healing and a Dominion Seal) and promises Commander Valerius will owe them a favor. 
+    * If the Concord druid is with them, she will demand they leave the "Dominion parasite" to die in the rot. 
+    * This forces the players to debate morality and faction politics.
+
+---
+
+## ⚔️/🧩 Room 4: The Spore Climax (Stealth/Puzzle)
+
+> *"You step into a dead clearing. At the center, clinging to a massive, petrified tree trunk, is a pulsating cluster of fleshy, yellow Blight-Pods. Guarding the tree is an Owlbear. But it's not acting normally. Thick, glowing green vines connect the pods directly into the Owlbear’s spine. It paces erratically, screeching in pain, controlled like a terrible puppet by the Blight-Pods."*
+
+**The Encounter:** * **1x Blight-Maddened Owlbear** & The Blight-Pods (AC 10, 30 HP, Vulnerable to Fire).
+* **The Puzzle/Stealth Condition:** The Owlbear's passive perception is heavily hindered by its pain. The players can realize (Nature/Arcana DC 12) that killing the Owlbear is unnecessary. If they destroy the Pods, the mind-control vines will snap.
+* **The Execution:** The Rogue can sneak around the back (Stealth) while the Fighter bangs a shield to draw the Owlbear away (Performance/Intimidation). If they can set the pods on fire, the Owlbear collapses in exhaustion, the green glow fades from its eyes, and it limps peacefully into the woods. 
 
 ---
 
 ## 🎁 Room 5: The Reward & Revelation
 
-> *"As the Owlbear falls and the Blight-Pods burn away into black ash, the air immediately begins to clear. The thick mud beneath the dead tree cracks open from the heat of the fire. Pushing up from the rot, you see a massive, ancient wooden root. It pulses with a pure, green magical light, completely untainted by the Blight. It almost feels... alive."*
+> *"As the pods burn to ash, the thick mud beneath the tree cracks open. Pushing up from the rot is a massive, ancient wooden root pulsing with pure, green magical light. It almost feels... alive."*
 
-**The Wrap-Up:** * This root is the party's first glimpse of **Oakharrow**, the slumbering primordial. 
-* The party treks back to the gates of Havenport. Nessa Glowroot meets them, handing over a heavy pouch of **50 Gold**. 
-* **The Handoff:** Nessa looks at the glowing sap on their boots and her eyes widen. *"The roots are stirring. Faelynn Wildheart needs capable hunters for the Drownroot Hollow. Get inside the walls, wash off that muck, and go to The Last Lantern tavern... look at the Bounty Board."*
+**The Wrap-Up:** * This root is the party's first glimpse of **Oakharrow**.
+* The party treks back to Havenport. Nessa pays the **50 Gold**. 
+* **The Handoff:** *"Faelynn Wildheart needs capable hunters for the Drownroot Hollow. Go to the Bounty Board."*
 
-*(DM Note: The session ends here. Present the players with the Havenport Bounty Board screenshot and ask them to call their shot for next session!)*
-
----
+*(DM Note: Present the Bounty Board screenshot. Ask them to call their shot!)*
 
 ## 📜 Appendix: Monster Statblocks
 
