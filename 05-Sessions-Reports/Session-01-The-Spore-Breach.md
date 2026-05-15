@@ -88,4 +88,4 @@ The party stands victorious in the safe zone of Havenport. With fresh gold in th
 - [ ] New rumors added to Rumor-Matrix.md
 - [x] New NPC files created where needed (Silas, Nessa Glowroot)
 - [ ] Campaign-Calendar.md advanced to current in_game_date
-- [ ] Loot logged on PC sheets
+- [x] Loot logged on PC sheets (vault entry in Loot-Log.md; canonical PC inventories tracked in external system)
