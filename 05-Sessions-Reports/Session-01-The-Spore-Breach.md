@@ -80,7 +80,7 @@ The heavy iron gates of Havenport slammed shut, locking the party outside in the
 The party stands victorious in the safe zone of Havenport. With fresh gold in their pockets and a mysterious Dominion lockbox in hand, they look to the local job board to decide their first true expedition into the Shattered Isles.
 
 ## Update Checklist
-- [ ] Active-Clocks.md updated
+- [x] Active-Clocks.md updated
 - [ ] FP totals updated in 02-Factions-and-Bastions/
 - [ ] BP totals updated in 02-Factions-and-Bastions/
 - [x] Mission files moved to Completed-Missions/ or Failed-Missions/ with status updated (M-T1-Concord-HotStart)
