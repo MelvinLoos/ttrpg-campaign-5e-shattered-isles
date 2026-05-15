@@ -106,7 +106,6 @@ target_hex: Hex-1010
 **Actions**
 * **Tusk:** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-Damage HP 42
 
 ### Swarm of Rot Grubs (x2)
 *Medium swarm of Tiny beasts, Unaligned*
@@ -122,8 +121,6 @@ Damage HP 42
 **Actions**
 * **Bites:** *Melee Weapon Attack:* +0 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* The target is infested by 1d4 rot grubs. At the start of each of the target's turns, the target takes 1d6 piercing damage per rot grub infesting it. Applying fire to the bite wound before the end of the target's next turn deals 1 fire damage to the target and kills these rot grubs. After this time, these rot grubs are too far under the skin to be burned and cure disease or lesser restoration is required.
 
-
-Damage HP 18
 ### Blight-Maddened Owlbear
 *Large monstrosity, Unaligned*
 **Armor Class:** 13 (Natural Armor)
@@ -140,10 +137,38 @@ Damage HP 18
 * **Beak:** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 10 (1d10 + 5) piercing damage.
 * **Claws:** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage.
 
+### Hazard: Blight-Pod Cluster
 
---- 
+_Large Blighted Flora, Unaligned_
 
-Found items:
+**Armor Class:** 10 (Thick, rubbery flesh) 
+**Hit Points:** 30 
+**Damage Vulnerabilities:** Fire 
+**Damage Immunities:** Poison, Psychic 
+**Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Prone, Restrained
 
-- 2 Dungeon Maps
-- Jade Statue
+**Reactions & Environmental Triggers:**
+
+- **The Fire Solution:** If the pods take Fire damage, the extreme heat incinerates the spores before they can release. The pods take double damage and do not trigger a Spore Burst.
+    
+- **Slashing/Piercing (Spore Burst):** If the pods take Slashing or Piercing damage, a pressurized cyst is punctured. Any creature within 5 feet of the pods must succeed on a **DC 12 Constitution saving throw** or take 1d4 poison damage as a cloud of toxic yellow pollen erupts from the wound.
+    
+- **Bludgeoning (Toxic Splatter):** If the pods take Bludgeoning damage, they don't burst into gas, but they splatter acidic, glowing green sap. The melee attacker must succeed on a **DC 12 Dexterity saving throw** or take 1d4 acid damage.
+
+If the Fighter runs up and just starts aggressively hacking at the pods with a longsword, they are going to get continuously gassed by Spore Bursts, making them realize very quickly that brute force is hurting them. It immediately encourages the party to step back and yell, _"Wizard, use Fire Bolt!"_ or _"Rogue, throw that oil flask we found!"_ This reinforces the theme of the campaign: the wilderness requires preparation and smart tactics, not just big weapons.
+
+### Environmental Target: The Blight-Vines
+
+_The thick, pulsing tethers connecting the Blight-Pods to the Owlbear's spine._
+
+**Armor Class:** 13 (The vines are thick, but they shift rapidly as the Owlbear thrashes) **Hit Points:** 10 (per vine cluster, there are 3 clusters total) **Damage Immunities:** Poison, Psychic, Bludgeoning (weapons just bounce off the rubbery flora) **Damage Vulnerabilities:** Slashing
+
+**Mechanics & Triggers:**
+
+- **Targeting the Tethers:** A player within melee range of the Owlbear (or making a precise ranged attack) can declare they are targeting the vines instead of the beast.
+    
+- **Severing a Vine:** When a vine cluster is reduced to 0 HP, it violently snaps.
+    
+- **The Backlash:** The severed vine whips wildly, leaking highly pressurized toxic sap. The creature who severed it must make a **DC 12 Dexterity saving throw** or take 1d4 acid damage.
+    
+- **The Relief (Benefit):** For every vine cluster severed, the Owlbear regains a sliver of its sanity and the Blight's control weakens. The Owlbear becomes _Stunned_ until the end of its next turn as its nervous system recalibrates, giving the rest of the party a massive window to rush past it and attack the pods directly!
