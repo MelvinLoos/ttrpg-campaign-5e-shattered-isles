@@ -85,7 +85,7 @@ The party stands victorious in the safe zone of Havenport. With fresh gold in th
 - [ ] BP totals updated in 02-Factions-and-Bastions/
 - [x] Mission files moved to Completed-Missions/ or Failed-Missions/ with status updated (M-T1-Concord-HotStart)
 - [ ] Hex files updated (Hex-1010 explored flag set to true)
-- [ ] New rumors added to Rumor-Matrix.md
+- [x] New rumors added to Rumor-Matrix.md
 - [x] New NPC files created where needed (Silas, Nessa Glowroot)
 - [x] Campaign-Calendar.md advanced to current in_game_date (placeholder — calendar not yet designed)
 - [x] Loot logged on PC sheets (vault entry in Loot-Log.md; canonical PC inventories tracked in external system)
