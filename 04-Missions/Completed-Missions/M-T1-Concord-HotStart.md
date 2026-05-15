@@ -1,6 +1,6 @@
 ---
 type: mission
-status: open
+status: completed
 canon_status: draft
 giving_faction: Atlas Concord
 target_hex: Hex-1010
@@ -172,3 +172,8 @@ _The thick, pulsing tethers connecting the Blight-Pods to the Owlbear's spine._
 - **The Backlash:** The severed vine whips wildly, leaking highly pressurized toxic sap. The creature who severed it must make a **DC 12 Dexterity saving throw** or take 1d4 acid damage.
     
 - **The Relief (Benefit):** For every vine cluster severed, the Owlbear regains a sliver of its sanity and the Blight's control weakens. The Owlbear becomes _Stunned_ until the end of its next turn as its nervous system recalibrates, giving the rest of the party a massive window to rush past it and attack the pods directly!
+
+## Resolution
+The party dispatched the Blight-Maddened Giant Boar at the Havenport gates; navigated 40 ft of toxic muck; freed a mind-controlled Blight-Maddened Owlbear by destroying the blight-pod cluster; escorted [[Silas]] back to Havenport (Dominion guards whisked him away). Reward: 50 gp paid by [[Nessa Glowroot]].
+
+**Resolved in:** [[Session-01-The-Spore-Breach]]
