@@ -43,8 +43,8 @@ The heavy iron gates of Havenport slammed shut, locking the party outside in the
 
 | Faction | ΔFP | Reason | New Standing |
 |---|---|---|---|
-| *[[Atlas Concord]]* | *+1* | *Completed the spore-clearing mission for Nessa* | *TBD* |
-| *[[Cronus Dominion]]* | *+1* | *Saved Silas the Surveyor from the swamp* | *TBD* |
+| *[[Atlas Concord]]* | *+1* | *Completed the spore-clearing mission for Nessa* | *1* |
+| *[[Cronus Dominion]]* | *+1* | *Saved Silas the Surveyor from the swamp* | *1* |
 
 ## Bastion Points (BP) Changes
 
@@ -81,7 +81,7 @@ The party stands victorious in the safe zone of Havenport. With fresh gold in th
 
 ## Update Checklist
 - [x] Active-Clocks.md updated
-- [ ] FP totals updated in 02-Factions-and-Bastions/
+- [x] FP totals updated in 02-Factions-and-Bastions/
 - [ ] BP totals updated in 02-Factions-and-Bastions/
 - [x] Mission files moved to Completed-Missions/ or Failed-Missions/ with status updated (M-T1-Concord-HotStart)
 - [ ] Hex files updated (Hex-1010 explored flag set to true)

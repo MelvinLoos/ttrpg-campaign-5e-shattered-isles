@@ -5,7 +5,7 @@ name: Atlas Concord
 core_ideal: Balance & Harmony
 primary_resource: 
 rival_faction: 
-current_standing: 
+current_standing: 1
 leader: Faelynn Wildheart
 faction_type: Mayor
 ---
@@ -26,3 +26,7 @@ The Atlas Concord believes that the key to surviving and thriving in the Shatter
 ## Controlled Assets
 - **Primary Bastion:** Havenport (Verdant Seat on the [[Havenport-Concordat|Havenport Concordat]])
 - **Controlled Hexes:** (List linked hex coordinates here)
+
+
+## Standing Log
+- **Session 1 (May 1):** +1 FP — Completed [[M-T1-Concord-HotStart]] spore-clearing mission for [[Nessa Glowroot]]. New standing: 1.

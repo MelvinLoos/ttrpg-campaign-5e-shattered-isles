@@ -5,7 +5,7 @@ name: Cronus Dominion
 core_ideal: Order & Control
 primary_resource: 
 rival_faction: 
-current_standing: 
+current_standing: 1
 leader: Commander Valerius
 faction_type: Mayor
 ---
@@ -26,3 +26,7 @@ To the Cronus Dominion, the chaos of the Shattered Isles is an enemy to be conqu
 ## Controlled Assets
 - **Primary Bastion:** Havenport (Iron Seat on the [[Havenport-Concordat|Havenport Concordat]])
 - **Controlled Hexes:** (List linked hex coordinates here)
+
+
+## Standing Log
+- **Session 1 (May 1):** +1 FP — Party saved [[Silas]] the Surveyor in the Eastern Swamp. New standing: 1.
