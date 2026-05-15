@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Missions/Open-Missions/M-T1-Concord-HotStart.md",
+                "file": "00-System/Templates/Template-Session-Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M-T1-Concord-HotStart"
+              "title": "Template-Session-Report"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "fccaea6e77bf6dd5",
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Master-Map"
             }
+          },
+          {
+            "id": "34c973e9465cb71a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +190,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "72c4458df81eb0b9",
   "lastOpenFiles": [
-    "04-Missions/Open-Missions/M-T1-Atlas-Hex1111-Drownroot-Watch.md",
+    "04-Missions/Open-Missions/M-T1-Cronus-Hex1011-Blaze-Line.md",
+    "00-System/Templates/Template-Session-Report.md",
     "04-Missions/Open-Missions/M-T1-Concord-HotStart.md",
+    "04-Missions/Open-Missions/M-T1-Atlas-Hex1111-Drownroot-Watch.md",
+    "04-Missions/Open-Missions/M-T1-Hyperion-Hex1110-Cairn-Run.md",
+    "surreal_data/mydatabase.db/000018.sst",
+    "surreal_data/mydatabase.db/000017.log",
+    "surreal_data/mydatabase.db/000016.sst",
+    "surreal_data/mydatabase.db/OPTIONS-000015",
+    "surreal_data/mydatabase.db/OPTIONS-000014.dbtmp",
+    "surreal_data/mydatabase.db/000013.dbtmp",
+    "surreal_data/mydatabase.db/MANIFEST-000013",
+    "surreal_data/mydatabase.db/000012.log",
+    "surreal_data/mydatabase.db/LOG.old.1778848773361372",
+    "surreal_data/mydatabase.db/000009.sst",
     "00-System/Random-Tables/Encounters-By-Biome.md",
     "00-System/Random-Tables/Wilderness-Dressing.md",
     "00-System/Random-Tables/Name-Generation.md",
@@ -194,8 +218,6 @@
     "Campaign-Dashboard.md",
     "CLAUDE.md",
     "AGENTS.md",
-    "04-Missions/Open-Missions/M-T1-Hyperion-Hex1110-Cairn-Run.md",
-    "04-Missions/Open-Missions/M-T1-Cronus-Hex1011-Blaze-Line.md",
     "00-System/Active-Clocks.md",
     "Untitled.md",
     "03-Hex-Map/Region-01-Safe-Zone/Hex-1111.md",
